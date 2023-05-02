@@ -22,6 +22,7 @@ Atualmente estudando desenvolvimento web com foco em Backend e Inteligência art
 <img align='center' alt'Jupyter' height'30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 <img align='center' alt'Docker' height'30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" >
 <img align='center' alt'Linux' height'30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
+<img align='center' alt'Bash' height'30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align='center' alt'Git' height'30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align='center' alt'Tensorflow' height'30' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
 <img align='right' alt'Gif' height'100' width='100' src='https://media.tenor.com/SxDiq1C5IfQAAAAC/hh-whta.gif'>
