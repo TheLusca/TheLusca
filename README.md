@@ -10,6 +10,8 @@
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=thelusca&show_icons=true&theme=blue-green&include_all_commits=true%count_private'>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thelusca&show_icons=true&theme=blue-green&include_all_commits=true%count_private'>
 </div>
+  
+   ![](https://komarev.com/ghpvc/?username=TheLusca&for-the-badge&label=PROFILE+VIEWS)
 
 ## :hammer_and_wrench: Linguagens e Tecnologias
 
@@ -29,8 +31,10 @@
 
 
 </div>
-
-
+  
+ 
+  
+ 
 
 
 
