@@ -1,8 +1,8 @@
-## Olá! Sou o Lucas
+# Olá! Sou o Lucas
 
-Acadêmico de Ciência da Computação
+## :computer: Acadêmico de Ciência da Computação
 
-Atualmente estudando desenvolvimento web com foco em Backend e Inteligência artificial com foco em redes neurais
+## :japanese_ogre: Atualmente estudando desenvolvimento Backend e Inteligência Artificial com foco em Visão Computacional e Redes Neurais 
 
 
 <div>
@@ -11,7 +11,7 @@ Atualmente estudando desenvolvimento web com foco em Backend e Inteligência art
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thelusca&show_icons=true&theme=blue-green&include_all_commits=true%count_private'>
 </div>
 
-## Linguagens e Tecnologias
+## :hammer_and_wrench: Linguagens e Tecnologias
 
 <div>
 <img align='center' alt'Python' height'30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
