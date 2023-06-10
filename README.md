@@ -12,6 +12,10 @@
 </div>
   
    ![](https://komarev.com/ghpvc/?username=TheLusca&for-the-badge&label=PROFILE+VIEWS)
+  <div> 
+    :e-mail: Contact me: lucas.andradefs@gmail.com
+  </div>
+  
 
 ## :hammer_and_wrench: Linguagens e Tecnologias
 
@@ -28,8 +32,6 @@
 <img align='center' alt'Git' height'30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align='center' alt'Tensorflow' height'30' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
 <img align='right' alt'Gif' height'100' width='100' src='https://media.tenor.com/SxDiq1C5IfQAAAAC/hh-whta.gif'>
-
-
 </div>
   
  
